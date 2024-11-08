@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Njoki
+- 👀 I’m interested in building websites
+- 🌱 I’m currently learning golang and laravel
